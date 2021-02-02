@@ -11,6 +11,7 @@ const Coin = () => {
                 </div>
                 <div className="coin-data">
                     <p className="coin-price">${price}</p>
+                    {/* //hello */}
                 </div>
             </div>
             
